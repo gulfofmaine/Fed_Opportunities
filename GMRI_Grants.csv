@@ -1,8 +1,12 @@
 OpportunityID,Agency,Title,Deadline,Posted,AdditionalInfoURL,IsNew
-363796,National Institute of Food and Agriculture,"1890 Institution Teaching, Research, and Extension Capacity Building Grants Program",2026-11-04,2026-09-03,https://www.nifa.usda.gov/grants/funding-opportunities/1890-institution-teaching-research-extension-capacity-building-grants,FALSE
-362551,U.S. National Science Foundation,"NSF Small Business Innovation Research / Small Business Technology Transfer Phase I, Phase II, Fast-Track Programs: A Pilot Emphasis on Scientific Instrumentation",2026-11-04,2026-05-22,http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26511,FALSE
-363481,U.S. National Science Foundation,U.S. National Science Foundation State and Regional Artificial Intelligence Infrastructure Hubs:,2026-11-04,2026-08-06,http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26513,FALSE
-363241,NASA Headquarters,ROSES25: A.15 Biosphere,2026-11-06,2026-07-20,https://solicitation.nasaprs.com/NNH25ZDA001N-BIOS,FALSE
+364230,Geological Survey,Cooperative Agreement for affiliated Partner with Great Rivers Cooperative Ecosystem Studies Unit,2026-12-07,2026-11-05,https://www.grants.gov/search-results-detail/364230,TRUE
+364227,Geological Survey,Cooperative Agreement for affiliated Partner with Great Lakes Northern Forest Cooperative Ecosystem Studies Unit,2026-12-07,2026-11-05,https://www.grants.gov/search-results-detail/364227,TRUE
+364236,Geological Survey,Cooperative Agreement for affiliated Partner with Hawai-Pacific Islands (HPI) Cooperative Ecosystem Studies Unit,2026-12-07,2026-11-05,https://www.grants.gov/search-results-detail/364236,TRUE
+364239,Geological Survey,Cooperative Agreement for affiliated Partner with Alaska Cooperative Ecosystem Studies Unit,2026-12-07,2026-11-05,https://www.grants.gov/search-results-detail/364239,TRUE
+364233,Geological Survey,Cooperative Agreement for affiliated Partner with Great Rivers Cooperative Ecosystem Studies Unit,2026-12-07,2026-11-05,https://www.grants.gov/search-results-detail/364233,TRUE
+364234,Geological Survey,Cooperative Agreement for affiliated Partner with Great Rivers Cooperative Ecosystem Studies Unit,2026-12-07,2026-11-05,https://www.grants.gov/search-results-detail/364234,TRUE
+364231,Geological Survey,Cooperative Agreement for affiliated Partner with Gulf Coast Cooperative Ecosystem Studies Unit,2027-01-05,2026-11-05,https://www.grants.gov/search-results-detail/364231,TRUE
+364221,NASA Headquarters,ROSES 2025:  D.10 Astrophysics Theory,2027-02-03,2026-11-05,https://solicitation.nasaprs.com/NNH25ZDA001N-ATP,TRUE
 363258,NASA Headquarters,ROSES25: C.4 Planetary Science Enabling Facilities,2026-11-10,2026-07-21,https://solicitation.nasaprs.com/NNH25ZDA001N-PSEF,FALSE
 360004,NASA Headquarters,ROSES 2025: C.2 Solar System Science,2026-11-12,2025-07-11,https://nspires.nasaprs.com/external/solicitations/summary.do?solId={C92A28D2-9E30-4149-24B7-8A40ED4F564B}&amp;path=&amp;method=init,FALSE
 364077,Geological Survey,Cooperative Agreement for affiliated Partner with Great Lakes-Northern Forest Cooperative Ecosystem Studies Unit,2026-11-14,2026-10-14,https://www.grants.gov/search-results-detail/364077,FALSE
@@ -46,6 +50,12 @@ OpportunityID,Agency,Title,Deadline,Posted,AdditionalInfoURL,IsNew
 364176,Geological Survey,Cooperative Agreement for affiliated Partner with the Great Rivers Cooperative Ecosystem Studies Unit,2026-12-04,2026-10-30,https://www.grants.gov/search-results-detail/364176,FALSE
 363734,NASA Headquarters,Solar System Exploration Research Virtual Institute Cooperative Agreement Notice-5 (SSERVI CAN-5),2026-12-04,2026-09-01,https://solicitation.nasaprs.com/NNH26ZDA016C,FALSE
 363759,NASA Headquarters,ROSES 2025: A.16 Cryosphere,2026-12-04,2026-09-01,https://solicitation.nasaprs.com/NNH25ZDA001N-CRYO,FALSE
+364229,Geological Survey,Cooperative Agreement for affiliated Partner with Chesapeake Watershed Cooperative Ecosystem Studies Unit,2026-12-07,2026-11-05,https://www.grants.gov/search-results-detail/364229,FALSE
+364228,Geological Survey,Cooperative Agreement for affiliated Partner with Great Basin Cooperative Ecosystem Studies Unit,2026-12-07,2026-11-05,https://www.grants.gov/search-results-detail/364228,FALSE
+364226,Geological Survey,Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit,2026-12-07,2026-11-05,https://www.grants.gov/search-results-detail/364226,FALSE
+364237,Geological Survey,Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit,2026-12-07,2026-11-05,https://www.grants.gov/search-results-detail/364237,FALSE
+364238,Geological Survey,Cooperative Agreement for affiliated Partner with Colorado Plateau Cooperative Ecosystem Studies Unit,2026-12-07,2026-11-05,https://www.grants.gov/search-results-detail/364238,FALSE
+364235,Geological Survey,Cooperative Agreement for affiliated Partner with Californian Cooperative Ecosystem Studies Unit,2026-12-07,2026-11-05,https://www.grants.gov/search-results-detail/364235,FALSE
 361418,Forest Service,Great Lakes Restoration Initiative: Community Forest and Open Space Conservation Program,2026-12-08,2026-07-22,https://www.grants.gov/search-results-detail/361418,FALSE
 364087,Department of Education,"Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Transformative Research in Special Education, Assistance Listing Number (ALN) 84.324T",2026-12-11,2026-10-16,https://ies.ed.gov/sites/default/files/ncser/document/2026/10/FY2027_324T.pdf,FALSE
 364086,Department of Education,"Institute of Education Sciences (IES): National Center on Education Research (NCER): From Seedlings to Scale, Assistance Listing Number (ALN) 84.305J",2026-12-11,2026-10-16,https://ies.ed.gov/sites/default/files/ncer/document/2026/10/FY2027_305J.pdf,FALSE
@@ -73,10 +83,11 @@ OpportunityID,Agency,Title,Deadline,Posted,AdditionalInfoURL,IsNew
 363789,NASA Headquarters,ROSES 2025: A.17 Hydrosphere,2027-01-28,2026-09-02,https://solicitation.nasaprs.com/NNH25ZDA001N-HYDRO,FALSE
 314743,U.S. National Science Foundation,"Methodology, Measurement, and Statistics (MMS)",2027-01-28,2019-04-10,http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf19575,FALSE
 364039,NASA Headquarters,ROSES 2025: B.8 Heliophysics Spaceflight Science Foundations,2027-02-05,2026-10-08,https://solicitation.nasaprs.com/NNH25ZDA001N-SSF,FALSE
-364160,DOC NOAA - ERA Production,Climate Program Office FY 2027 - Super Intelligence/Machine Learning Innovation to Advance NOAA&apos;s Earth System Science and Support Hazard Resilience,2027-02-09,2026-10-27,https://www.grants.gov/search-results-detail/364160,FALSE
+364160,DOC NOAA - ERA Production,Climate Program Office FY 2027 - Super Intelligence/Machine Learning Innovation to Advance NOAA&apos;s Earth System Science and Support Hazard Resilience,2027-02-09,2026-10-27,https://docs.google.com/forms/d/1TXMarQwN5Va627cAfmI3Z0muWF1iUn_qYHH3daeUNGQ/viewform?edit_requested=true,FALSE
 363958,DOC NOAA - ERA Production,"Advancing coastal flood protection through public-private partnerships, innovative insurance products, and improved sediment management.",2027-02-12,2026-09-25,https://www.grants.gov/search-results-detail/363958,FALSE
 364124,Department of Homeland Security - FEMA,Fiscal Year 2026 Flood Mitigation Assistance,2027-02-26,2026-10-22,https://www.fema.gov/grants/mitigation/flood-mitigation-assistance,FALSE
 361333,U.S. National Science Foundation,Pathways to Enable Secure Open-Source Ecosystems (PESOSE),2027-03-02,2026-02-19,http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26506,FALSE
+362551,U.S. National Science Foundation,"NSF Small Business Innovation Research / Small Business Technology Transfer Phase I, Phase II, Fast-Track Programs: A Pilot Emphasis on Scientific Instrumentation",2027-03-04,2026-05-22,http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26511,FALSE
 364032,NASA Headquarters,ROSES 2025: B.7 The Heliophysics Low-Cost Access to Space,2027-03-16,2026-10-07,https://solicitation.nasaprs.com/NNH25ZDA001N-LCAS,FALSE
 363530,Air Force Office of Scientific Research,FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) CAPACITY BUILDING (CB),2027-04-05,2026-08-10,https://www.grants.gov/,FALSE
 361238,U.S. National Science Foundation,Artificial Intelligence and Cybersecurity Education Innovation and Scholarship for Service (CyberAI SFS),2027-04-05,2026-02-04,http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26503,FALSE
@@ -84,6 +95,7 @@ OpportunityID,Agency,Title,Deadline,Posted,AdditionalInfoURL,IsNew
 357724,U.S. National Science Foundation,EPSCoR Research Infrastructure Improvement Program: EPSCoR Research Incubators for STEM Excellence (E-RISE),2027-08-10,2024-12-14,http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf25522,FALSE
 359325,U.S. National Science Foundation,Community Infrastructure for Research in Computer and Information Science and Engineering (CIRC),2027-09-10,2025-06-06,http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23589,FALSE
 350802,U.S. National Science Foundation,Research Experiences for Teachers (RET) in Engineering and Computer Science,2027-10-13,2023-10-31,http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf24503,FALSE
+363481,U.S. National Science Foundation,U.S. National Science Foundation State and Regional Artificial Intelligence Infrastructure Hubs:,2027-11-03,2026-08-06,http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf26513,FALSE
 345083,National Park Service,NPS Cooperative Ecosystems Studies Units (CESU) Master Cooperative Agreements,2027-12-31,2022-12-22,https://www.grants.gov/search-results-detail/345083,FALSE
 363151,Department of Homeland Security - FEMA,Fiscal Year 2026 Flood Mitigation Assistance Swift Current,2028-01-31,2026-07-14,https://www.grants.gov/search-results-detail/363151,FALSE
 362034,DOC NOAA - ERA Production,2026 Alaska Marine Education and Training Mini-Grant Program,2028-05-01,2026-04-23,https://www.grants.gov/search-results-detail/362034,FALSE
